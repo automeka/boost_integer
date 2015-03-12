@@ -1,0 +1,10 @@
+module boost_integer {
+  header "boost/integer_fwd.hpp"
+  header "boost/integer.hpp"
+  header "boost/integer/integer_log2.hpp"
+  header "boost/integer/integer_mask.hpp"
+  header "boost/integer/static_log2.hpp"
+  header "boost/integer/static_min_max.hpp"
+  header "boost/integer_traits.hpp"
+  header "boost/pending/integer_log2.hpp"
+}
